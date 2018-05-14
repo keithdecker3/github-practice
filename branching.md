@@ -6,3 +6,4 @@ Even more stuff!
 
 merge conflict here
 
+second merge conflict
