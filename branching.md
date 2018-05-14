@@ -4,4 +4,5 @@ Here is some more branching practice
 
 Even more stuff!
 
-conflict
+merge conflict here
+
